@@ -1,1 +1,1 @@
-# iExplore
+# QuizGame
